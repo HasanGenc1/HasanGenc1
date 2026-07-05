@@ -12,8 +12,6 @@
 
 🚀 Continuously developing projects and expanding my skills through hands-on learning.
 
-🌍 Aspiring Data Scientist seeking to transform data into actionable insights.
-
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasangencc/)
